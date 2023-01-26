@@ -1,0 +1,43 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+text-align: left;
+width: 100%;
+}
+
+.heading button{
+float:right;
+border-color: 2px solid white;
+}
+.heading h3{
+display:inline;
+}
+
+.copyright_footer
+{
+color: white;
+background-color: grey;
+width: 100%;
+line-height: 3;
+bottom: 0;
+position: fixed;
+}
+
+.modal-dialog
+{
+width: 90%;
+}
+.modal-body
+{
+text-align: left;
+}
+
+canvas{
+border-radius: 20px;
+border: 5px solid white;
+box-shadow:5px 5px 5px grey;
+}
